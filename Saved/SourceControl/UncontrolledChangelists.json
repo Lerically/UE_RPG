@@ -38,6 +38,13 @@
 				"C:/Users/87776/Documents/Unreal Projects/RPG_Series/Content/Blueprint/BPI_Assasination.uasset",
 				"C:/Users/87776/Documents/Unreal Projects/RPG_Series/Content/ThirdPerson/Input/Actions/IA_Assasin.uasset",
 				"C:/Users/87776/Documents/Unreal Projects/RPG_Series/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"E:/UE_RPG/Content/Blueprint/BPC_PlayerStates.uasset",
+				"E:/UE_RPG/Content/UI/WB_HUD.uasset",
+				"E:/UE_RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UE_RPG/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"E:/UE_RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/UE_RPG/Content/Characters/Mannequins/Animations/Manny/MM_Sprint.uasset",
+				"E:/UE_RPG/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_BlendSpace1D.uasset",
 				"C:/Users/87776/Documents/Unreal Projects/RPG_Series/Content/Characters/Mannequins/Materials/Instances/Quinn/Quinn.uasset",
 				"C:/Users/87776/Documents/Unreal Projects/RPG_Series/Content/Characters/Mannequins/Materials/Instances/Quinn/Quinn_Brown.uasset"
 			]
